@@ -1,0 +1,5 @@
+dist
+/.dist
+idea
+/.idea
+.parcel-cache
